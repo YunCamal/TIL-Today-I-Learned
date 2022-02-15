@@ -2,9 +2,9 @@
 
 ## 머신러닝이란?
 
-- [youtube](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+- [youtube 참고](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 
-{% include video id="VYOjWnS4cMY" provider="youtube" %}
+
 - 일종의 소프트웨어(프로그래밍)
 - 하지만 명확하게 룰을 정하기 어려울 떄가 있다.
 - 그래서 현상이나 자료에서 자동으로 프로그램이 배우는 것을 만드는 것이 머신러닝이다.
